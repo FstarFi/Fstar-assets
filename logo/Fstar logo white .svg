@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="133px" viewBox="0 0 147 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <defs>
+        <linearGradient x1="74.8742681%" y1="62.4309507%" x2="50%" y2="3.43665805%" id="linearGradient-1">
+            <stop stop-color="#3A46FF" offset="0%"></stop>
+            <stop stop-color="#3D5FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.8742681%" y1="62.4309507%" x2="50%" y2="3.43665805%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份-20" transform="translate(-407.000000, -473.000000)" fill="url(#linearGradient-2)">
+            <g id="编组-3" transform="translate(407.000000, 474.000000)">
+                <g id="编组-2" transform="translate(73.409035, 65.500000) rotate(-285.000000) translate(-73.409035, -65.500000) translate(21.959190, 3.569609)">
+                    <path d="M49.1654263,38.7227792 L59.8422127,56.8381984 L53.0595349,54.1587792 L63.242702,109.757567 L54.6134309,87.0724855 L51.3338599,106.575513 L49.4703962,95.6614958 L39.7543299,123.860783 L45.9555349,54.6707792 L39.7155349,57.9126736 L49.1654263,38.7227792 Z M49.5215757,-0.225365978 L67.5759978,30.2150761 L102.684897,34.3530749 L79.3532094,61.001455 L86.2348533,95.7454729 L65.2161085,86.7038653 L61.847024,56.3106868 L71.0816679,45.1640731 L56.1442842,42.609137 L48.7926507,30.0751131 L41.9384215,43.2721477 L27.8339365,47.1969075 L38.1116784,57.5537475 L36.5593005,91.4382581 L22.9048463,99.1096206 L26.1663757,63.8267881 L0.214792893,39.7963803 L34.7047268,31.961228 L49.5215757,-0.225365978 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
